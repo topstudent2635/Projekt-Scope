@@ -83,7 +83,6 @@ if menu_options: #Decides the execution
             option3()
         elif option == 4:
             option4()
-
         elif option == 5:
             print('Thank you for your time. Goodbye.') #Indtast 5 for at lukke programmet
             exit()
